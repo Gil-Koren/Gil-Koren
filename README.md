@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gil-Koren
 - 👀 I’m interested in Game Devlopment and General Software Engineering
-- 🌱 I’m currently learning the Godot game engine and Python together with tools related to each project I do.
+- 🌱 I’m currently learning the Godot game engine and Python together with tools related to each project I do
 
 
 <!---
